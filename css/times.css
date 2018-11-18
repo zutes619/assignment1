@@ -1,0 +1,139 @@
+body {
+    background-color: hsl(0, 100%, 74%);
+}
+
+*,
+*::after,
+*::before {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: px;
+    line-height: 1.6;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 3.998.em;
+}
+
+<style> @import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300');
+</style>
+/*font-family: font stack required for body text */
+
+{
+    h1,
+    font-family: 'sans-serif';
+    h2,
+    font-family: 'sans-serif';
+    h3,
+    font-family: 'sans-serif';
+    h4 font-family: 'sans-serif';
+}
+
+
+/*font-family: font stack required for headings */
+
+
+}
+p {}
+.container {
+    max-width: 1500px;
+}
+.subnav {
+    float: left;
+    overflow: hidden;
+    display: flex;
+    width: 100%;
+    justify-content: flex-end;
+}
+.subnav a {
+    float: left;
+    font-size: 20px;
+    color: hsl(128, 100%, 71%) padding: 14px 16px;
+    text-decoration: none;
+    padding: 14px 16px;
+}
+.mainnav {
+    overflow: hidden;
+    height: 100px;
+    margin: 0 2px;
+    display: flex;
+    justify-content: space-around;
+}
+.mainnav a {
+    float: left;
+    font-size: 40px;
+    color: hsl(0, 100%, 0%);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.masthead {}
+
+}
+.times-logo {}
+.masthead h1 {
+    text-align: center;
+}
+.content {}
+.content .story {}
+.story.lead-story {
+    width: 1000px;
+    margin-top: 0;
+    font-size: 22px;
+    text-align: horizontal;
+    font-weight: bold;
+    color: hsl(0,
+    100%,
+    100%);
+}
+h1.story-title {
+    margin: auto;
+    width: 50%;
+    border: 3px solid white;
+    padding: 10px;
+    text-align: center;
+}
+.story img {
+    <img src="https://picsum.photos/400/400?random" alt="Paris" class="center"> display: block;
+    width: 40%;
+}
+.story p {}
+.story blockquote {
+    quotes: "\201E" "\201D";
+    font-weight: bold;
+    text-align: center;
+}
+.story blockquote::before {
+    content: open-quote;
+}
+.story blockquote::after {
+    content: close-quote;
+}
+.story p.byline {}
+p.byline span.author {
+    font-weight: bold;
+    font-size: 26px;
+    border: 3px solid black;
+}
+p.byline span.pub {}
+.foot {}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.foot p {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: hsl(240,
+    69%,
+    26%);
+    color: hsl(240,
+    69%,
+    100%);
+    text-align: center;
+}
